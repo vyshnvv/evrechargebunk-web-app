@@ -2,7 +2,9 @@
 
 A **MERN Stack** web application that helps users easily locate nearby **EV recharge bunks**, view details, check slot availability, and book charging sessions.
 Includes an **Admin Dashboard** for managing bunks and slot availability.
+
 ---
+![License](https://img.shields.io/github/license/vyshnvv/tictactoe-web-app)
 
 ### 👤 User
 - 🔐 **User Authentication** – Login & Register securely  
