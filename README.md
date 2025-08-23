@@ -18,7 +18,8 @@ A **MERN Stack** web application that helps users easily locate nearby **EV rech
 ### Frontend
 - [React.js](https://reactjs.org/) — Component-based UI library  
 - [React Router](https://reactrouter.com/) — Client-side routing  
-- [Axios](https://axios-http.com/) — API requests  
+- [Axios](https://axios-http.com/) — API requests
+- [Leaflet](https://leafletjs.com/) — Interactive maps with OpenStreetMap  
 
 ### Backend
 - [Node.js](https://nodejs.org/) — JavaScript runtime  
@@ -30,8 +31,7 @@ A **MERN Stack** web application that helps users easily locate nearby **EV rech
 - [dotenv](https://www.npmjs.com/package/dotenv) — Environment variable management  
 
 ### Other Tools
-- [Render](https://render.com/) / [Vercel](https://vercel.com/) — Deployment options  
-- [Google Maps API](https://developers.google.com/maps) — Location & mapping  
+- [OpenStreetMap](https://www.openstreetmap.org/) — Location & mapping (with Leaflet) 
 
 ---
 
