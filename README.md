@@ -1,15 +1,19 @@
 # ⚡ EV Recharge Bunk Web App
 
 A **MERN Stack** web application that helps users easily locate nearby **EV recharge bunks**, view details, check slot availability, and book charging sessions.
-
+Includes an **Admin Dashboard** for managing bunks and slot availability.
 ---
 
-## 🚀 Features
-
+### 👤 User
 - 🔐 **User Authentication** – Login & Register securely  
 - 📍 **Search Nearby EV Bunks** – Find charging stations around you  
-- 🏠 **Bunk Details** – View address, contact number, and Google Maps location  
-- 🔋 **Slot Availability** – Check real-time slot vacancy for EV charging  
+- 🏠 **Bunk Details** – View address, contact number, and location on map  
+- 🔋 **Slot Availability** – Check real-time slot vacancy  
+
+### 🛠️ Admin
+- 👤 **Admin Authentication** – Admin login (no signup, added manually to DB)  
+- 🗂️ **Manage Bunks** – Add, edit, or delete bunk details  
+- 📊 **Slot Management** – Update slot vacancy  
 
 ---
 
