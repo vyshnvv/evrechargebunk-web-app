@@ -1,5 +1,5 @@
 {
-  "name": "tictiactoe",
+  "name": "evrechargebunk",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2"
+  }
 }
